@@ -26,4 +26,4 @@ Here you'll find hands-on projects where I apply tools like **R, SQL, Tableau, P
 
 Feel free to explore the projects and reach out if you want to connect!
 
-📧 [flbongiovanni1@gmail.com] | 🔗 [LinkedIn Profile](www.linkedin.com/in/fbongiovanni)
+📧 [flbongiovanni1@gmail.com] | 🔗 [www.linkedin.com/in/fbongiovanni]
